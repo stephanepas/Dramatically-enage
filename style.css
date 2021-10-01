@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header{
+    width: 85%;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    background-color:burlywood;
+}
+ul{
+    display: flex;
+    justify-content: flex-end;
+    list-style: none;
+}
+li{
+    padding: 2%;
+}
+/* .dropdown-toggle, .dropdown-toggle:hover, .dropdown-toggle:focus{
+    text-decoration: none;
+} */
